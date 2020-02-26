@@ -12,7 +12,6 @@ words.sort(key = fun)
 leksi = words[::-1]
 fonienta = ('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U')
 
-#ελεγχος για φωνηεντα
 try:
     proti = leksi[0]
     for i in proti:
